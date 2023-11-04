@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>WORD SHOW</title>
+        <link rel="shortcut icon" href="/img/Screenshot (180).png" type="image/x-icon">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/css/apicall.css">
+        <link rel="stylesheet" href="/css/addWord.css">
+        <link rel="stylesheet" href="/css/style1.css">
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+        <!-- <script src="/js/api.js"></script> -->
+       <script  src="/js/api.js"></script>
+        <script  src="/js/addWord.js"></script>
+        <script src="/js/addWord.js"></script>
+        <script src="/js/remove.js"></script>
+        
+        
+    </head>
+    <%-include("partial/navbar") %> 
+    <body>
+        <div style="visibility: hidden;" id="tok"><%= tok %> </div>
+        <div id="token" style="visibility: hidden;"><%=token %> </div>
+        <div id="apibody">
+            
+       <% for(let txt of Scraptxt){ %>
+        <p  style="visibility:hidden"><%= txt %></p>
+        <%}  %>  
+       </div>
+       <div class="tooltip-container"></div>
+       <div class="add-to-database" style=" background-color: white;"></div>   
+     
+        
+    </body>
+   
+</html>

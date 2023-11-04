@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+}
+#buttonEjs{
+    background: #6AE900;
+    
+}
+.add-to-database{
+    width: 100px;
+   height:15px;
+   
+   background-color: cadetblue;
+ 
+   color:black;
+    height:fixed;
+    padding:7px;
+    font-size: 15px;
+    background: white;
+     box-shadow: 0 4px 90px -20px rgba(3, 33,233, .3); 
+    position: absolute;
+     z-index: 100; 
+    display: none; 
+    opacity: 0;
+}
+.fade-in{
+    display:block;
+    animation: fade 0.2s linear forwards;
+}
+@keyframes fade{
+    0%{
+        opacity:0;
+    }
+    100%{
+        opacity: 1;
+    }
+
+}

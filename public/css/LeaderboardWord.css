@@ -1,0 +1,46 @@
+body {
+    background-image: url(/img/Leader1.jpg);
+    background-size: cover;
+  }
+  h1 {
+    text-align: center;
+    padding-right: 7rem;
+    padding-left: 7rem;
+    margin-top: 2rem;
+    color: white;
+    font-size: 5rem;
+  }
+  #header{
+      display: flex;
+      align-items: start;
+  }
+  .header {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 4rem;
+  }
+  /*  */
+  table {
+    border: 2px solid black;
+
+    width: 100%;
+  }
+  th,td {
+   height:auto;
+   width:33%;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+  th {
+    background-color: #0fe7e7;
+    color: black;
+    height: 30px;
+    
+  }
+  td {
+    background-color: white;
+    color: black;
+  }
+  /*  */

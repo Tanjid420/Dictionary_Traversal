@@ -1,0 +1,831 @@
+[
+
+    [{
+        "clue":"The most influential publication of the Enlightenment?",
+        "answer":"encyclopedia"
+    },
+    {
+        "clue":"do after marriage",
+        "answer":"sex"
+    },
+    {
+        "clue":"Who argued that all religious are equal",
+        "answer":"jean"
+    },
+    {
+        "clue":"A system of faith the philosophers had.",
+        "answer":"deism"
+    }
+    ,
+    {
+        "clue":"motu",
+        "answer":"asif"
+
+    }],
+[  
+    {
+        "clue":"to tell the differences of two or more things",
+        "answer":"contrast"
+    },
+
+    {
+        "clue":"text that builds up a claim or backs up your ideas",
+        "answer":"support"
+    },
+
+    {
+        
+        "clue":"to tell about in details",
+        "answer":"describe"
+    },
+
+    {
+        "clue":"the traditions and achievements of a group of people",
+        "answer":"heritahe"
+    },
+
+    {
+        "clue":"to create or put together",
+        "answer":"formulate"
+    },
+
+    {
+        
+        "clue":" to tell the similarities of two of more things",
+        "answer":"compare"
+    },
+
+    {
+        "clue":"to make an educated guess based on prior knowledge and text evidence",
+        "answer":"predict"
+    },
+
+    {
+        "clue":"to list in steps",
+        "answer":"trace"
+    },
+
+    {
+        "clue":"to judge",
+        "answer":"evaluate"
+    },
+
+    {
+        
+        "clue":"to shorten a text and give only the main points",
+        "answer":"summary"
+    },
+
+    {
+       
+        "clue":"to read between the lines",
+        "answer":"infer"
+    },
+
+    {
+        
+        "clue":"to break apart and study each individual part",
+        "answer":"analyze"
+    },
+
+    {
+        "clue":"to tell in your own words",
+        "answer":"explain"
+    }
+
+ ],
+ [   
+    {
+        "clue":"The parts of an equation that don't change",
+        "answer":"constant"
+    },
+
+    {
+        
+        "clue":"A math sentence with an equal sign",
+        "answer":"equation"
+    },
+
+    {
+        "clue":"Used to solve equations, opposite",
+        "answer":"inverseoperattons"
+    },
+
+    {
+        "value":"INEQUALITIES",
+        "clue":"Less than, equal to, less than or equal to, greater than or equal to"
+    },
+
+    {
+        "clue":"To solve or find the solution",
+        "answer":"evaluate"
+    },
+
+    {
+        "clue":"A math sentence without an equal sign",
+        "answer":"expression"
+    },
+
+    {
+        "clue":" Replacing a variable with a number",
+        "answer":"substitution"
+    },
+
+    {
+        "clue":" A set of numbers that follows a pattern",
+        "answer":"sequence"
+    },
+
+    {
+        "clue":" A letter or symbol that represents a number",
+        "answer":"variable"
+    },
+
+    {
+        "clue":"A sequence made by adding the same number.",
+        "answer":"arithmetic"
+    },
+
+    {
+        
+        "clue":"A sequence that you multiply the same number to get the next term",
+        "answer":"geometric"
+    },
+
+    {
+        "clue":"Terms whose variables and their exponents are the same",
+        "answer":"liketerm"
+    },
+
+    {
+        "clue":"Parts of an expression, equation, or sequence.",
+        "answer":"term"
+    },
+
+    {
+        "clue":"Rules in math like, distributive and commutative.",
+        "answer":"properties"
+    },
+
+    {
+        "clue":" The numerical factor multiplied by the variable in the term",
+        "answer":"coefficient"
+    }
+
+],
+
+[   
+    {
+        "clue":"A one-termed polynomial is a _________",
+        "answer":"monomial"
+    },
+
+    {
+        
+        "clue":"In a term, the sum of the exponents on the variables is the _______ __ __ ______",
+        "answer":"degreeofaterm"
+    },
+
+    {
+        "clue":"A mathematical phrase with operators connecting numbers and variables is an _________",
+        "answer":"expression"
+    },
+
+    {
+        "clue":"A _________ is an algebraic expression made by adding or subtracting terms",
+        "answer":"polynomial"
+    },
+
+    {
+        "clue":"Numbers, variables, and the products of numbers and variables are all ______",
+        "answer":"terms"
+    },
+
+    {
+        
+        "clue":"The number that a variable is being multiplied with is called the __________",
+        "answer":"coefficient"
+    },
+
+    {
+        
+        "clue":" The degree of the term with the greatest degree is the _______ ",
+        "answer":"degreeofapolynomial"
+    },
+
+    {
+        
+        "clue":"An __________ is a mathematical statement that says two expressions are equal",
+        "answer":"equation"
+    },
+
+    {
+        
+        "clue":"A two-termed polynomial is a __________",
+        "answer":"binomial"
+    },
+
+    {
+        
+        "clue":"Numbers or variables that form a product are ________",
+        "answer":"factors"
+    },
+
+    {
+        
+        "clue":" Terms that have the same variable(s) raised to the same exponent(s) are ______ ______",
+        "answer":"liketerms"
+    },
+
+    {
+        
+        "clue":" Terms with different variables, or the same variables raised to different exponents are ________ ______",
+        "answer":"unliketerms"
+    },
+
+    {
+        
+        "clue":"A letter representing a number or value that can change or vary is a _________",
+        "answer":"variable"
+    },
+
+    {
+        
+        "clue":"A three-termed polynomial is a _________",
+        "answer":"trinomial"
+    },
+
+    {
+        
+        "clue":"A term with no variables, that's value remains the same is a ________ _____",
+        "answer":"constantterm"
+    },
+
+    {
+        
+        "clue":"When the terms of a polynomial are ordered from highest to lowest degree is known as __________ ______",
+        "answer":"standardform"
+    }
+
+]
+,[   
+    {
+        
+        "clue":"to show by means of a picture",
+        "answer":"illustrate"
+    },
+
+    {
+        
+        "clue":"use examples to show how things are alike",
+        "answer":"compare"
+    },
+
+    {
+        
+        "clue":"talk about issues from all sides",
+        "answer":"discuss"
+    },
+
+    {
+        
+        "clue":"to judge in your own words",
+        "answer":"evaluate"
+    },
+
+    {
+        
+        "clue":"use examples to show how things are different",
+        "answer":"contrast"
+    },
+
+    {
+        
+        "clue":"to outline",
+        "answer":"trace"
+    },
+
+    {
+        
+        "clue":"tell all about it",
+        "answer":"describe"
+    },
+
+    {
+        
+        "clue":"tell about it",
+        "answer":"explain"
+    },
+
+    {
+        
+        "clue":"to break apart",
+        "answer":"analyze"
+    },
+
+    {
+        
+        "clue":"make a long story short",
+        "answer":"summarize"
+    },
+
+    {
+        
+        "clue":"give clear definition or meaning",
+        "answer":"define"
+    },
+
+    {
+        
+        "clue":"to give reasons and facts why",
+        "answer":"support"
+    },
+
+    {
+       
+        "clue":"what will happen next",
+        "answer":"predict"
+    },
+    {
+        
+        "clue":"group of words, sentences, or comments",
+        "answer":"list"
+    },
+    {
+        
+        "clue":"show good and bad points give your reasoned opinion",
+        "answer":"criticize"
+    },
+    {
+        
+        "clue":"a good guess",
+        "answer":"infer"
+    },
+    {
+        
+        "clue":"develop, create, put together and/or give steps",
+        "answer":"formulate"
+    }
+],
+[   
+    {
+        
+        "clue":"The order of something",
+        "answer":"sequence"
+    },
+
+    {
+        
+        "clue":"To come to a final decision based on facts",
+        "answer":"conclude"
+    },
+
+    {
+        
+        "clue":"The reason the writer wrote something",
+        "answer":"authorspurpose"
+    },
+
+    {
+        
+        "clue":"A story, or description of events",
+        "answer":"narrative"
+    },
+
+    {
+        
+        "clue":" A short statement that gives the main ideas of something that has been said or written",
+        "answer":"summary"
+    },
+
+    {
+        
+        "clue":"A fiction story that could NOT happen in real life",
+        "answer":"fantasy"
+    },
+
+    {
+        
+        "clue":"A made-up story",
+        "answer":"fiction"
+    },
+
+    {    
+        "clue":"The specific style of writing is the story's...",
+        "answer":"genre"
+    },
+
+    {  
+        "clue":"A comparison of two things using like or as",
+        "answer":"simile"
+    },
+
+    {       
+        "clue":"One line of poetry",
+        "answer":"verse"
+    },
+
+    {        
+        "clue":"This is another way to say tell",
+        "answer":"express"
+    },
+
+    {       
+        "clue":" A true story about a person's life",
+        "answer":"biography"
+    },
+
+    {       
+        "clue":"A group of letters added to the beginning of a root word to change the meaning",
+        "answer":"prefix"
+    },
+    {    
+        "clue":"A group of lines that look much like a paragraph",
+        "answer":"stanza"
+    },
+
+    {  
+        "clue":"Pictures, maps, captions, graphic organizers...anything provided except the text",
+        "answer":"textfeatures"
+    },
+
+    {       
+        "clue":"The moral of a story",
+        "answer":"theme"
+    },
+
+    {        
+        "clue":" A story passed down from generation to generation",
+        "answer":"folktale"
+    },
+
+    {       
+        "clue":"A word that has the opposite meaning of another word",
+        "answer":"antonym"
+    },
+    {        
+        "clue":"What the reader can figure out about the story using context clues.",
+        "answer":"inference"
+    },
+
+    {       
+        "clue":"A comparison of two things WITHOUT using like or as",
+        "answer":"metaphor"
+    }
+],
+[  
+    {
+        
+        "clue":"Numbers multiplied together to get another number",
+        "answer":"factors"
+    },
+
+    {
+        
+        "clue":"Term which means that two things are equal",
+        "answer":"equation"
+    },
+
+    {
+        
+        "clue":"Tells you how many times to use the value in multiplication",
+        "answer":"exponent"
+    },
+
+    {
+        
+        "clue":"A Symbol used for a number",
+        "answer":"variable"
+    },
+
+    {
+        
+        "clue":"Type of graph that uses points connected by lines to show something changes is value",
+        "answer":"line"
+    },
+
+    {
+        
+        "clue":"This can have constants, variables, and exponents",
+        "answer":"polynomial"
+    },
+
+    {
+        
+        "clue":"Means this equals that",
+        "answer":"statement"
+    },
+
+    {
+        
+        "clue":"A number used to multiply a variable",
+        "answer":"coefficient"
+    },
+
+    {
+        
+        "clue":"A symbol that shows an operation",
+        "answer":"operator"
+    },
+
+    {
+        
+        "clue":"ype of graph using rectangle bars to show how large each value is",
+        "answer":"bar"
+    },
+
+    {
+       
+        "clue":"Terms who's variables and exponents are the same",
+        "answer":"like"
+    },
+
+    {
+        
+        "clue":"A number own it's own",
+        "answer":"constant"
+    },
+
+    {
+        
+        "clue":"Can be a single number or variable multiplied together",
+        "answer":"term"
+    },
+    {
+        
+        "clue":"A group of therms separated by + or - signs",
+        "answer":"expression"
+    },
+    {
+        
+        "clue":"Part or half of a whole",
+        "answer":"fraction"
+    },
+    {
+        
+        "clue":"he use of letters or symbols in place of unknown values",
+        "answer":"algebra"
+    },
+    {
+        
+        "clue":"The result of adding two or more numbers.",
+        "answer":"sum"
+    },
+    {
+        
+        "clue":" A machine or program used for doing mathematical calculations",
+        "answer":"calculator"
+    },
+    {
+        
+        "clue":"Means X and Y lines on a graph",
+        "answer":"axes"
+    },
+    {
+        
+        "clue":"Splitting into equal parts or groups",
+        "answer":"division"
+    }
+
+],
+[   
+    {
+        "value":"CONSTANT",
+        "clue":"The parts of an equation that don't change",
+        "answer":"constant"
+    },
+
+    {
+        
+        "clue":"A math sentence with an equal sign.",
+        "answer":"equation"
+    },
+
+    {
+        
+        "clue":" Used to solve equations, opposite",
+        "answer":"inverseoperations"
+    },
+
+    {
+        "clue":" Less than, equal to, less than or equal to, greater than or equal to",
+        "answer":"inequalities"
+    },
+
+    {
+        
+        "clue":"To solve or find the solution",
+        "answer":"evaluate"
+    },
+
+    {
+        
+        "clue":"A math sentence without an equal sign",
+        "answer":"expression"
+    },
+
+    {
+        
+        "clue":"Replacing a variable with a number",
+        "answer":"substitution"
+    },
+
+    {
+        
+        "clue":"A set of numbers that follows a pattern",
+        "answer":"sequence"
+    },
+
+    {
+        
+        "clue":"A letter or symbol that represents a number",
+        "answer":"variable"
+    },
+
+    {
+        
+        "clue":"A sequence made by adding the same number",
+        "answer":"arithmetic"
+    },
+
+    {
+        
+        "clue":" A sequence that you multiply the same number to get the next term.",
+        "answer":"geometric"
+    },
+
+    {
+        "clue":"Terms whose variables and their exponents are the same.",
+        "answer":"liketerm"
+    },
+
+    {
+        
+        "clue":"Parts of an expression, equation, or sequence.",
+        "answer":"term"
+    },
+    {
+        
+        "clue":"Rules in math like, distributive and commutative.",
+        "answer":"properties"
+    },
+    {
+        
+        "clue":"The numerical factor multiplied by the variable in the term.",
+        "answer":"coefficient"
+    }
+],
+[
+    {
+        
+        "clue":"A triangle that contains a right angle.",
+        "answer":"righttriangle"
+    },
+    {
+        
+        "clue":"two ratios or fractions are equal",
+        "answer":"proportion"
+    },
+    {
+       
+        "clue":"The result of multiplying a number by itself",
+        "answer":"square"
+    },
+    {
+        "clue":"sides and angles' that are images of each other will be equal if the two triangles are congruent.",
+        "answer":"correspondingparts"
+    },
+    {
+        
+        "clue":" the statement that the values of two mathematical expressions are equal",
+        "answer":"equation"
+    },
+    {
+        
+        "clue":" x = -b ± √(b² - 4ac)/2a",
+        "answer":"quadraticformula"
+    },
+    {
+        
+        "clue":"Any number that cannot be written as a simple fraction, such as non-repeating, non-terminating decimals, square roots of non-perfect squares, pi.",
+        "answer":"irrationalnumber"
+    },
+    {
+        
+        "clue":"Any number that can be written as a simple fraction, with a whole number numerator and denominator, such as terminating decimals, repeating decimals and integers.",
+        "answer":"rationalnmber"
+    },
+    {
+        
+        "clue":"events such that the outcome of one event does not affect the probability of the outcome of another event",
+        "answer":"independentevents"
+    },
+    {
+        
+        "clue":"A square with a whole number root.",
+        "answer":"perfectsquare"
+    },
+    {
+       
+        "clue":"The line of symmetry that runs through the vertex; can be found algebraically: x=-b/(2a)",
+        "answer":"axisofsymmetry"
+    },
+    {
+        
+        "clue":"an angle whose vertex is at the center of a circle",
+        "answer":"centralangle"
+    },
+    {
+        "clue":"All the output values of a function.",
+        "answer":"range"
+    },
+    {
+        
+        "clue":"An angle of exactly 90 degrees.",
+        "answer":"rightangle"
+    },
+    {
+        
+        "clue":"a possible result of an experiment",
+        "answer":"outcome"
+    },
+    {
+        
+        "clue":"relationship between two numbers indicating how many times the first number contains the second",
+        "answer":"ratio"
+    },
+    {
+        
+        "clue":" value that,when multiplied by itself,gives the number",
+        "answer":"roots"
+    },
+    {
+        
+        "clue":"solving a problem",
+        "answer":"solutions"
+    },
+    {
+        
+        "clue":"an unbroken part of a circle",
+        "answer":"alnumber"
+    },
+    {
+       
+        "clue":"All the input values of a function.",
+        "answer":"domain"
+    },
+    {
+        
+        "clue":"one of the possible outcomes of a probability experiment",
+        "answer":"event"
+    },
+    {
+       
+        "clue":" a single number or variable, or numbers and variables multiplied together",
+        "answer":"terms"
+    },
+    {
+        
+        "clue":". Greek philosopher, 570-495 BC. There is no evidence that Pythagoras himself worked on or proved the Pythagorean Theorem, which was used previously by Babylonians and Indians.",
+        "answer":"pythagoras"
+    },
+    {
+        "clue":" relationship between two numbers indicating how many times the first number contains the second",
+        "answer":"ratio"
+    },
+    {
+        
+        "clue":"a numerical or constant quantity placed before and multiplying the variable in an algebraic expression",
+        "answer":"coefficient"
+    },
+    {
+        
+        "clue":"a collection or list of items",
+        "answer":"set"
+    },
+    {
+        
+        "clue":"a diagram that shows how two or more sets in a universal set are related",
+        "answer":"vendiagram"
+    },
+    {
+        
+        "clue":"The maximum or minimum point of a quadratic function.",
+        "answer":"vertex"
+    },
+    {
+        
+        "clue":"A mathematical symbol that indicates the extraction of the root of the square inside.",
+        "answer":"radicalsign"
+    }
+]
+
+
+
+
+
+
+
+    
+
+]

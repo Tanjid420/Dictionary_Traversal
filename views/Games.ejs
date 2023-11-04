@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link
+      rel="shortcut icon"
+      href="/img/Screenshot (180).png"
+      type="image/x-icon"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/css/style1.css" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/Games.css" />
+    <script src="/js/remove.js"></script>
+    <title>Games</title>
+  <!-- <div class="clearfix"></div> -->
+</head>
+<body>
+   <%-include("partial/navbar") %>
+   <div style="visibility: hidden;" id="tok"><%= token %> </div>
+   <div id="bg">
+
+  
+<section>
+    <div class="container py-5">
+      <div class="row text-left">
+        <div class="col-12">
+          <h1 class="font-weight-bold">Games</h1>
+          <p class="gamearticle" style="text-align: justify">
+            Here are some games based on word. You can play any games anytime whenever you want. Enjoy.
+          </p>
+        </div>
+      </div>
+      <div class="categories">
+        <div class="small-container">
+          <div class="row">
+            <div class="col-3">
+              <a href="/games/word-Puzzle"
+                ><img src="/img/WordGame.jpg"
+              /></a>
+              <h1>Word Puzzle</h1>
+            </div>
+            <div class="col-3">
+              <a href="/games/quiz"
+                ><img src="/img/Quiz.jpg"
+              /></a>
+              <h1>Quiz Time</h1>
+            </div>
+            <div class="col-3">
+              <a href="https://www.oxfordlearnersdictionaries.com/"
+                ><img src="/img/Coming Soon.jpg"
+              /></a>
+              <h1>Coming Soon</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+</body>
+</html>

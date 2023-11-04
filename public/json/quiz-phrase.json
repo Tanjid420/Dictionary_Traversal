@@ -1,0 +1,932 @@
+[
+  [
+    {
+      "Phrase": "A blessing in disguise",
+      "meaning": "a good thing that seemed bad at first"
+    }
+  ],
+  [
+    {
+      "Phrase": "A dime a dozen",
+      "meaning": "Something common"
+    }
+  ],
+  [
+    {
+      "Phrase": "Beat around the bush",
+      "meaning": "Avoid saying what you mean, usually because it is uncomfortable"
+    }
+  ],
+  [
+    {
+      "Phrase": "Better late than never",
+      "meaning": "Better to arrive late than not to come at all"
+    }
+  ],
+  [
+    {
+      "Phrase": "Bite the bullet",
+      "meaning": "To get something over with because it is inevitable"
+    }
+  ],
+  [
+    {
+      "Phrase": "Break a leg",
+      "meaning": "Good luck"
+    }
+  ],
+  [
+    {
+      "Phrase": "Call it a day",
+      "meaning": "Stop working on something"
+    }
+  ],
+  [
+    {
+      "Phrase": "Cut somebody some slack",
+      "meaning": "Don't be so critical"
+    }
+  ],
+  [
+    {
+      "Phrase": "Cutting corners",
+      "meaning": "Doing something poorly in order to save time or money"
+    }
+  ],
+  [
+    {
+      "Phrase": "Easy does it",
+      "meaning": "Slow down"
+    }
+  ],
+  [
+    {
+      "Phrase": "Get out of hand",
+      "meaning": "Get out of control"
+    }
+  ],
+  [
+    {
+      "Phrase": "Get something out of your system",
+      "meaning": "Do the thing you've been wanting to do so you can move on"
+    }
+  ],
+  [
+    {
+      "Phrase": "Get your act together",
+      "meaning": "Work better or leave"
+    }
+  ],
+  [
+    {
+      "Phrase": "Give someone the benefit of the doubt",
+      "meaning": "rust what someone says"
+    }
+  ],
+  [
+    {
+      "Phrase": "Go back to the drawing board",
+      "meaning": "Start over"
+    }
+  ],
+  [
+    {
+      "Phrase": "Hang in there",
+      "meaning": "Don't give up"
+    }
+  ],
+  [
+    {
+      "Phrase": "Hit the sack",
+      "meaning": "Go to sleep"
+    }
+  ],
+  [
+    {
+      "Phrase": "It's not rocket science",
+      "meaning": "It's not complicated"
+    }
+  ],
+  [
+    {
+      "Phrase": "Let someone off the hook",
+      "meaning": "To not hold someone responsible for something"
+    }
+  ],
+  [
+    {
+      "Phrase": "Make a long story short",
+      "meaning": "Tell something briefly"
+    }
+  ],
+  [
+    {
+      "Phrase": "Miss the boat",
+      "meaning": "It's too late"
+    }
+  ],
+  [
+    {
+      "Phrase": "No pain, no gain",
+      "meaning": "You have to work for what you want"
+    }
+  ],
+  [
+    {
+      "Phrase": "On the ball",
+      "meaning": "Doing a good job"
+    }
+  ],
+  [
+    {
+      "Phrase": "Pull someone's leg",
+      "meaning": "To joke with someone"
+    }
+  ],
+  [
+    {
+      "Phrase": "Pull yourself together",
+      "meaning": "Calm down"
+    }
+  ],
+  [
+    {
+      "Phrase": "So far so good",
+      "meaning": "Things are going well so far"
+    }
+  ],
+  [
+    {
+      "Phrase": "Speak of the devil",
+      "meaning": "The person we were just talking about showed up!"
+    }
+  ],
+  [
+    {
+      "Phrase": "That's the last straw",
+      "meaning": "My patience has run out"
+    }
+  ],
+  [
+    {
+      "Phrase": "The best of both worlds",
+      "meaning": "An ideal situation"
+    }
+  ],
+  [
+    {
+      "Phrase": "Time flies when you're having fun",
+      "meaning": "You don't notice how long something lasts when it's fun"
+    }
+  ],
+  [
+    {
+      "Phrase": "To get bent out of shape",
+      "meaning": "To get upset"
+    }
+  ],
+  [
+    {
+      "Phrase": "To make matters worse",
+      "meaning": "Make a problem worse"
+    }
+  ],
+  [
+    {
+      "Phrase": "Under the weather",
+      "meaning": "Sick"
+    }
+  ],
+  [
+    {
+      "Phrase": "We'll cross that bridge when we come to it",
+      "meaning": "Let's not talk about that problem right now"
+    }
+  ],
+  [
+    {
+      "Phrase": "Wrap your head around something",
+      "meaning": "Understand something complicated"
+    }
+  ],
+  [
+    {
+      "Phrase": "You can say that again",
+      "meaning": "That's true, I agree"
+    }
+  ],
+  [
+    {
+      "Phrase": "Your guess is as good as mine",
+      "meaning": "I have no idea"
+    }
+  ],
+  [
+    {
+      "Phrase": "A bird in the hand is worth two in the bush",
+      "meaning": "What you have is worth more than what you might have later"
+    }
+  ],
+  [
+    {
+      "Phrase": "A penny for your thoughts",
+      "meaning": "Tell me what you're thinking"
+    }
+  ],
+  [
+    {
+      "Phrase": "A penny saved is a penny earned",
+      "meaning": "Money you save today you can spend later"
+    }
+  ],
+  [
+    {
+      "Phrase": "A perfect storm",
+      "meaning": "the worst possible situation"
+    }
+  ],
+  [
+    {
+      "Phrase": "A picture is worth 1000 words",
+      "meaning": "Better to show than tell"
+    }
+  ],
+  [
+    {
+      "Phrase": "Actions speak louder than words",
+      "meaning": "Believe what people do and not what they say"
+    }
+  ],
+  [
+    {
+      "Phrase": "Add insult to injury",
+      "meaning": "To make a bad situation worse"
+    }
+  ],
+  [
+    {
+      "Phrase": "Barking up the wrong tree",
+      "meaning": "To be mistaken, to be looking for solutions in the wrong place"
+    }
+  ],
+  [
+    {
+      "Phrase": "Birds of a feather flock together",
+      "meaning": "People who are alike are often friends (usually used negatively)"
+    }
+  ],
+  [
+    {
+      "Phrase": "Bite off more than you can chew",
+      "meaning": "Take on a project that you cannot finish"
+    }
+  ],
+  [
+    {
+      "Phrase": "Break the ice",
+      "meaning": "Make people feel more comfortable"
+    }
+  ],
+  [
+    {
+      "Phrase": "By the skin of your teeth",
+      "meaning": "Just barely"
+    }
+  ],
+  [
+    {
+      "Phrase": "Comparing apples to oranges",
+      "meaning": "Comparing two things that cannot be compared"
+    }
+  ],
+  [
+    {
+      "Phrase": "Costs an arm and a leg",
+      "meaning": "Very expensive"
+    }
+  ],
+  [
+    {
+      "Phrase": "Do something at the drop of a hat",
+      "meaning": "Do something without having planned beforehand"
+    }
+  ],
+  [
+    {
+      "Phrase": "Do unto others as you would have them do unto you",
+      "meaning": "Treat people fairly. Also known as "
+    }
+  ],
+  [
+    {
+      "Phrase": "Don't count your chickens before they hatch",
+      "meaning": "Don't count on something good happening until it's happened."
+    }
+  ],
+  [
+    {
+      "Phrase": "Don't cry over spilt milk",
+      "meaning": "There's no reason to complain about something that can't be fixed"
+    }
+  ],
+  [
+    {
+      "Phrase": "Don't give up your day job",
+      "meaning": "You're not very good at this"
+    }
+  ],
+  [
+    {
+      "Phrase": "Don't put all your eggs in one basket",
+      "meaning": "What you're doing is too risky"
+    }
+  ],
+  [
+    {
+      "Phrase": "Every cloud has a silver lining",
+      "meaning": "Good things come after bad things"
+    }
+  ],
+  [
+    {
+      "Phrase": "Get a taste of your own medicine",
+      "meaning": "Get treated the way you've been treating others"
+    }
+  ],
+  [
+    {
+      "Phrase": "Get treated the way you've been treating others",
+      "meaning": "Ignore someone"
+    }
+  ],
+  [
+    {
+      "Phrase": "Go on a wild goose chase",
+      "meaning": "To do something pointless"
+    }
+  ],
+  [
+    {
+      "Phrase": "Good things come to those who wait",
+      "meaning": "Be patient"
+    }
+  ],
+  [
+    {
+      "Phrase": "He has bigger fish to fry",
+      "meaning": "He has bigger things to take care of than what we are talking about now"
+    }
+  ],
+  [
+    {
+      "Phrase": "He's a chip off the old block",
+      "meaning": "The son is like the father"
+    }
+  ],
+  [
+    {
+      "Phrase": "Hit the nail on the head",
+      "meaning": "Get something exactly right"
+    }
+  ],
+  [
+    {
+      "Phrase": "Ignorance is bliss",
+      "meaning": "You're better off not knowing"
+    }
+  ],
+  [
+    {
+      "Phrase": "It ain't over till the fat lady sings",
+      "meaning": "This isn't over yet"
+    }
+  ],
+  [
+    {
+      "Phrase": "It takes one to know one",
+      "meaning": "You're just as bad as I am"
+    }
+  ],
+  [
+    {
+      "Phrase": "It's a piece of cake",
+      "meaning": "It's easy"
+    }
+  ],
+  [
+    {
+      "Phrase": "It's raining cats and dogs",
+      "meaning": "It's raining hard"
+    }
+  ],
+  [
+    {
+      "Phrase": "Kill two birds with one stone",
+      "meaning": "Get two things done with a single action"
+    }
+  ],
+  [
+    {
+      "Phrase": "Let the cat out of the bag",
+      "meaning": "Give away a secret"
+    }
+  ],
+  [
+    {
+      "Phrase": "Live and learn",
+      "meaning": "I made a mistake"
+    }
+  ],
+  [
+    {
+      "Phrase": "Look before you leap",
+      "meaning": "Take only calculated risks"
+    }
+  ],
+  [
+    {
+      "Phrase": "On thin ice",
+      "meaning": "On probation. If you make another mistake, there will be trouble."
+    }
+  ],
+  [
+    {
+      "Phrase": "Once in a blue moon",
+      "meaning": "Rarely"
+    }
+  ],
+  [
+    {
+      "Phrase": "Play devil's advocate",
+      "meaning": "To argue the opposite, just for the sake of argument"
+    }
+  ],
+  [
+    {
+      "Phrase": "Put something on ice",
+      "meaning": "Put a projet on hold"
+    }
+  ],
+  [
+    {
+      "Phrase": "Rain on someone's parade",
+      "meaning": "To spoil something"
+    }
+  ],
+  [
+    {
+      "Phrase": "Saving for a rainy day",
+      "meaning": "Saving money for later"
+    }
+  ],
+  [
+    {
+      "Phrase": "Slow and steady wins the race",
+      "meaning": "Reliability is more important than speed"
+    }
+  ],
+  [
+    {
+      "Phrase": "Spill the beans",
+      "meaning": "Give away a secret"
+    }
+  ],
+  [
+    {
+      "Phrase": "Take a rain check",
+      "meaning": "Postpone a plan"
+    }
+  ],
+  [
+    {
+      "Phrase": "Take it with a grain of salt",
+      "meaning": "Don’t take it too seriously"
+    }
+  ],
+  [
+    {
+      "Phrase": "The ball is in your court",
+      "meaning": "It's your decision"
+    }
+  ],
+  [
+    {
+      "Phrase": "The best thing since sliced bread",
+      "meaning": "A really good invention"
+    }
+  ],
+  [
+    {
+      "Phrase": "The devil is in the details",
+      "meaning": "It looks good from a distance, but when you look closer, there are problems"
+    }
+  ],
+  [
+    {
+      "Phrase": "The early bird gets the worm",
+      "meaning": "The first people who arrive will get the best stuff"
+    }
+  ],
+  [
+    {
+      "Phrase": "The elephant in the room",
+      "meaning": "The big issue, the problem people are avoiding"
+    }
+  ],
+  [
+    {
+      "Phrase": "The whole nine yards",
+      "meaning": "Everything, all the way."
+    }
+  ],
+  [
+    {
+      "Phrase": "There are other fish in the sea",
+      "meaning": "It's ok to miss this opportunity. Others will arise."
+    }
+  ],
+  [
+    {
+      "Phrase": "There's a method to his madness",
+      "meaning": "He seems crazy but actually he's clever"
+    }
+  ],
+  [
+    {
+      "Phrase": "There's no such thing as a free lunch",
+      "meaning": "Nothing is entirely free"
+    }
+  ],
+  [
+    {
+      "Phrase": "Throw caution to the wind",
+      "meaning": "Take a risk"
+    }
+  ],
+  [
+    {
+      "Phrase": "You can't have your cake and eat it too",
+      "meaning": "You can't have everything"
+    }
+  ],
+  [
+    {
+      "Phrase": "You can't judge a book by its cover",
+      "meaning": "This person or thing may look bad, but it's good inside"
+    }
+  ],
+  [
+    {
+      "Phrase": "A little learning is a dangerous thing",
+      "meaning": "People who don't understand something fully are dangerous"
+    }
+  ],
+  [
+    {
+      "Phrase": "A snowball effect",
+      "meaning": "Events have momentum and build upon each other"
+    }
+  ],
+  [
+    {
+      "Phrase": "A snowball's chance in hell",
+      "meaning": "No chance at all"
+    }
+  ],
+  [
+    {
+      "Phrase": "A stitch in time saves nine",
+      "meaning": "Fix the problem now because it will get worse later"
+    }
+  ],
+  [
+    {
+      "Phrase": "A storm in a teacup",
+      "meaning": "A big fuss about a small problem"
+    }
+  ],
+  [
+    {
+      "Phrase": "An apple a day keeps the doctor away",
+      "meaning": "Apples are good for you"
+    }
+  ],
+  [
+    {
+      "Phrase": "An ounce of prevention is worth a pound of cure",
+      "meaning": "You can prevent a problem with little effort. Fixing it later is harder."
+    }
+  ],
+  [
+    {
+      "Phrase": "As right as rain",
+      "meaning": "Perfect"
+    }
+  ],
+  [
+    {
+      "Phrase": "Bolt from the blue",
+      "meaning": "Something that happened without warning"
+    }
+  ],
+  [
+    {
+      "Phrase": "Burn bridges",
+      "meaning": "Destroy relationships"
+    }
+  ],
+  [
+    {
+      "Phrase": "Calm before the storm",
+      "meaning": "Something bad is coming, but right now it's calm"
+    }
+  ],
+  [
+    {
+      "Phrase": "Come rain or shine",
+      "meaning": "No matter what"
+    }
+  ],
+  [
+    {
+      "Phrase": "Curiosity killed the cat",
+      "meaning": "Stop asking questions"
+    }
+  ],
+  [
+    {
+      "Phrase": "Cut the mustard",
+      "meaning": "Do a good job"
+    }
+  ],
+  [
+    {
+      "Phrase": "Don't beat a dead horse",
+      "meaning": "Move on, this subject is over"
+    }
+  ],
+  [
+    {
+      "Phrase": "Every dog has his day",
+      "meaning": "Everyone gets a chance at least once"
+    }
+  ],
+  [
+    {
+      "Phrase": "Familiarity breeds contempt",
+      "meaning": "The better you know someone the less you like him"
+    }
+  ],
+  [
+    {
+      "Phrase": "Fit as a fiddle",
+      "meaning": "In good health"
+    }
+  ],
+  [
+    {
+      "Phrase": "Fortune favours the bold",
+      "meaning": "Take risks"
+    }
+  ],
+  [
+    {
+      "Phrase": "Get a second wind",
+      "meaning": "Have more energy after having been tired"
+    }
+  ],
+  [
+    {
+      "Phrase": "Get wind of something",
+      "meaning": "Hear news of something secret"
+    }
+  ],
+  [
+    {
+      "Phrase": "Go down in flames",
+      "meaning": "Fail spectacularly"
+    }
+  ],
+  [
+    {
+      "Phrase": "Haste makes waste",
+      "meaning": "You'll make mistakes if you rush through something"
+    }
+  ],
+  [
+    {
+      "Phrase": "Have your head in the clouds",
+      "meaning": "Not be concentrating"
+    }
+  ],
+  [
+    {
+      "Phrase": "He who laughs last laughs loudest",
+      "meaning": "I'll get you back for what you did"
+    }
+  ],
+  [
+    {
+      "Phrase": "Hear something straight from the horse's mouth",
+      "meaning": "Hear something from the person involved"
+    }
+  ],
+  [
+    {
+      "Phrase": "He's not playing with a full deck",
+      "meaning": "He's dumb"
+    }
+  ],
+  [
+    {
+      "Phrase": "He's off his rocker",
+      "meaning": "He's crazy"
+    }
+  ],
+  [
+    {
+      "Phrase": "He's sitting on the fence",
+      "meaning": "He can't make up his mind"
+    }
+  ],
+  [
+    {
+      "Phrase": "It is a poor workman who blames his tools",
+      "meaning": "If you can't do the job, don't blame it on others"
+    }
+  ],
+  [
+    {
+      "Phrase": "It is always darkest before the dawn",
+      "meaning": "Things are going to get better"
+    }
+  ],
+  [
+    {
+      "Phrase": "It takes two to tango",
+      "meaning": "One person alone isn't responsible. Both people are involved."
+    }
+  ],
+  [
+    {
+      "Phrase": "Jump on the bandwagon",
+      "meaning": "Follow a trend, do what everyone else is doing"
+    }
+  ],
+  [
+    {
+      "Phrase": "Know which way the wind is blowing",
+      "meaning": "Understand the situation"
+    }
+  ],
+  [
+    {
+      "Phrase": "Leave no stone unturned",
+      "meaning": "Look everywhere"
+    }
+  ],
+  [
+    {
+      "Phrase": "Let sleeping dogs lie",
+      "meaning": "Stop discussing an issue"
+    }
+  ],
+  [
+    {
+      "Phrase": "Like riding a bicycle",
+      "meaning": "Something you never forget how to do"
+    }
+  ],
+  [
+    {
+      "Phrase": "Like two peas in a pod",
+      "meaning": "They're always together"
+    }
+  ],
+  [
+    {
+      "Phrase": "Make hay while the sun shines",
+      "meaning": "Take advantage of a good situation"
+    }
+  ],
+  [
+    {
+      "Phrase": "On cloud nine",
+      "meaning": "Very happy"
+    }
+  ],
+  [
+    {
+      "Phrase": "Once bitten, twice shy",
+      "meaning": "You're more cautious when you've been hurt before"
+    }
+  ],
+  [
+    {
+      "Phrase": "Out of the frying pan and into the fire",
+      "meaning": "Things are going from bad to worse"
+    }
+  ],
+  [
+    {
+      "Phrase": "Run like the wind",
+      "meaning": "Run fast"
+    }
+  ],
+  [
+    {
+      "Phrase": "Shape up or ship out",
+      "meaning": "Work better or leave"
+    }
+  ],
+  [
+    {
+      "Phrase": "Snowed under",
+      "meaning": "Busy"
+    }
+  ],
+  [
+    {
+      "Phrase": "That ship has sailed",
+      "meaning": "It's too late"
+    }
+  ],
+  [
+    {
+      "Phrase": "The pot calling the kettle black",
+      "meaning": "Someone criticizing someone else he is just as bad"
+    }
+  ],
+  [
+    {
+      "Phrase": "There are clouds on the horizon",
+      "meaning": "Trouble is coming"
+    }
+  ],
+  [
+    {
+      "Phrase": "Those who live in glass houses shouldn't throw stones",
+      "meaning": "People who are morally questionable shouldn't criticize others"
+    }
+  ],
+  [
+    {
+      "Phrase": "Through thick and thin",
+      "meaning": "In good times and in bad times"
+    }
+  ],
+  [
+    {
+      "Phrase": "Time is money",
+      "meaning": "Work quickly"
+    }
+  ],
+  [
+    {
+      "Phrase": "Waste not, want not",
+      "meaning": "Don't waste things and you'll always have enough"
+    }
+  ],
+  [
+    {
+      "Phrase": "We see eye to eye",
+      "meaning": "We agree"
+    }
+  ],
+  [
+    {
+      "Phrase": "Weather the storm",
+      "meaning": "Go through something difficult"
+    }
+  ],
+  [
+    {
+      "Phrase": "Well begun is half done",
+      "meaning": "Getting a good start is important"
+    }
+  ],
+  [
+    {
+      "Phrase": "When it rains it pours",
+      "meaning": "Everything is going wrong at once"
+    }
+  ],
+  [
+    {
+      "Phrase": "You can catch more flies with honey than you can with vinegar",
+      "meaning": "You'll get what you want by being nice"
+    }
+  ],
+  [
+    {
+      "Phrase": "You can lead a horse to water, but you can't make him drink",
+      "meaning": "You can't force someone to make the right decision"
+    }
+  ],
+  [
+    {
+      "Phrase": "You can't make an omelet without breaking some eggs",
+      "meaning": "There's always a cost to doing something"
+    }
+  ]
+]

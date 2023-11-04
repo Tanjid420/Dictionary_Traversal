@@ -1,0 +1,89 @@
+<html>
+<head>
+    <title>Contact</title>
+    <link rel="shortcut icon" href="/img/Screenshot (180).png" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/style1.css">
+    <script src="/js/remove.js"></script>
+  </head>
+  <body>
+    <%- include("partial/navbar") %> 
+    <div style="visibility: hidden;" id="tok"><%= token %> </div>
+
+ 
+  <!-- map section starts -->
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6886.9243480719415!2d91.83634045946009!3d24.913137162048997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3750556002144eab%3A0xe277e14dbca9f2ab!2sShahjalal%20University%20of%20Science%20and%20Technology!5e0!3m2!1sen!2sbd!4v1637522588599!5m2!1sen!2sbd" width="1600" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+  <!-- map section ends -->
+
+  
+  <!-- contact form starts -->
+       <div class="container address-section">
+           <div class="row">
+               <div class="col-md-4 office-address-container">
+                   <div class="row">
+                       <div class="col-1 py-4">
+                           <i class="fas fa-home"></i>
+                       </div>
+                       <div class="col-11 py-4 address-content">
+                           <h4 class="address-headline"> Head Office</h4>
+                           <address class="my-4">Shahjalal University of Science & Technology.
+                             University Avenue
+                             Sylhet 3114, Bangladesh </address>
+                            <p class="mt-2"> <i class="fas fa-phone-volume"></i> Tel <a href="callto:+88029612481-6">+88029612481-6</a></p>
+                           <p class="mt-2"> <i class="fas fa-fax"></i> Fax <a href="callto:+88029612481-6">+88029612481-6</a></p>
+                       </div>
+                   </div>  
+                   <div class="row">
+                     <div class="col-1 py-4">
+                         <i class="fas fa-industry"></i>
+                     </div>
+                     <div class="col-11 py-4 address-content">
+                         <h4 class="address-headline">Technical Team Office</h4>
+                         <address class="my-4">Dictionary Traversal,
+                             Taokir Villa, Akhaliya Residential Area,
+                             Sylhet-3114, Bangladesh </address>
+                          <p class="mt-2"> <i class="fas fa-phone-volume"></i> Tel <a href="callto:+88001516-744110">+88001516-744110</a></p>
+                         <p class="mt-2"> <i class="fas fa-fax"></i> Fax <a href="callto:+88029612481-6">+88029612481-6</a></p>
+                     </div>
+                 </div>       
+               </div>
+               <div class="col-md-8 bg-light p-5">
+                     <h4>Send a Message</h4>
+                     <div class="row mt-5">
+                         <div class="col-md-6">
+                             <input class="form-control mt-2" type="text" placeholder="First Name"/>
+                             <input class="form-control mt-2" type="text" placeholder="Email"/>
+                             <input class="form-control mt-2" type="text" placeholder="Company"/>
+                         </div>
+                         <div class="col-md-6">
+                             <input class="form-control mt-2" type="text" placeholder="Last Name"/>
+                             <input class="form-control mt-2" type="text" placeholder="Phone"/>
+                             <input class="form-control mt-2" type="text" placeholder="Subject"/>
+                         </div>
+                     </div>
+                     <textarea placeholder="Message" rows="10" class="mt-2 form-control"></textarea>
+                     <button class="btn btn-outline-success mt-3">Send Now</button>
+               </div>
+           </div>
+       </div>
+  <!-- contact form ends -->
+
+
+  
+
+  
+
+
+
+  
+  
+<div class="clearfix"></div> 
+
+
+  
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+</body>
+</html>
+

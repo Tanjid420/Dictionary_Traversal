@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard</title>
+    <link rel="stylesheet" href="/css/style1.css" />
+    <link rel="stylesheet" href="/css/Leaderboard.css">
+    <link
+      rel="shortcut icon"
+      href="/img/Screenshot (180).png"
+      type="image/x-icon"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+   <script src="/js/remove.js"></script>
+    
+</head>
+<body>
+    
+    <%-include("partial/navbar") %>
+    <div style="visibility: hidden;" id="tok"><%= token %> </div>
+    <div id="bg">
+      <div id = "words1">
+        <a href="/leaderboard/my-words">
+        <button id="words">My Words</button>
+        </a>
+      </div>
+         <div class="leader">
+        <table>
+            <h1 class="caption">Leaderboard</h1>
+            <thead>
+                <tr>
+                    <th id="th1">Rank</th>
+                    <th id="th1">Name</th>
+                    <th id="th1">Word</th>
+                </tr>
+                <% for(let x=0;x<userObject.length;x++){%>
+               
+                     
+                      <tr>
+                     
+                    <td id="td1"><%=x+1 %> </td>
+                    <td id="td1"><%= userObject[x].userName %> </td>
+                    <td id="td1"><%= userObject[x].wordList.length %> </td>
+
+
+                   
+                </tr>
+                
+                
+               <% } %> 
+                
+                
+            </thead>
+        </table>
+    </div>
+    </div>
+   
+</body>
+</html>

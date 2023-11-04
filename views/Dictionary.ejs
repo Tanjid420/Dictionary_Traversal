@@ -1,0 +1,253 @@
+<html>
+  <head>
+    <title>Dictionary Traversal</title>
+    <link
+      rel="shortcut icon"
+      href="/img/Screenshot (180).png"
+      type="image/x-icon"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="/css/style1.css" />
+    <script src="/js/remove.js"></script>
+    <!-- <script src="/js/remove.js"></script> -->
+  </head>
+  <body>
+    <%-include("partial/navbar") %>
+    <div style="visibility: hidden;" id="tok"><%= token %> </div>
+    <!-- Changed Pictures -->
+    <section>
+      <div
+        class="carousel slide"
+        id="carouselExampleControls"
+        data-bs-ride="carousel"
+      >
+        <div class="carousel-inner">
+          <div class="carousel-item active position-relative">
+            <img src="/img/rsz_beach.jpg" class="d-block w-100" alt="..." />           
+          </div>
+          <div class="carousel-item">
+            <img src="/img/rsz_bookbanner2.jpg" class="d-block w-100" alt="..." />            
+          </div>
+          <div class="carousel-item">
+            <img src="/img/Hrithik.jpg" class="d-block w-100" alt="..." />
+          </div>
+        </div>
+        <button
+          class="carousel-control-prev"
+          type="button"
+          data-bs-target="#carouselExampleControls"
+          data-bs-slide="prev"
+        >
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button
+          class="carousel-control-next"
+          type="button"
+          data-bs-target="#carouselExampleControls"
+          data-bs-slide="next"
+        >
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </section>
+    
+    <section>
+       <div class="container mt-5"> 
+        <div class="row">
+          <div class="col-md-12">
+            <div class="search-area">
+              <p class="submit"> You Can Paste URL Here</p>
+              <div class="input-group">
+                <form action="/api" method="POST">
+                  <input
+                    type="url"
+                    name="urlName"
+                    class="form-control search-input"
+                    placeholder="Search"
+                  />
+                  <button class="btn btn-outline-info arnob" style="color: white;">
+                    <b>Submit</b>
+                  </button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Copy & Paste -->
+    <section>
+      <div class="container mt-5">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="search-area">
+              <p class="submit"> You Can Directly Paste Article Here</p>
+              <div class="input-group">
+                <form action="/api" method="POST">
+                 
+                  <textArea id="text"
+                   placeholder="copy your text"
+                   rows="5"
+                   cols="87"
+                   name="textArea">
+                   
+                  </textArea>
+                  <button class="btn btn-outline-info arnob" style="color: white;" >
+                    <b>Generate</b>
+                  </button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Copy & Paste -->
+  <section>
+    <div  class="container-fluid py-5">
+      <div class="container">
+          <div  class="row">
+              <div class="col-md-4 text-center">
+                <div  class="card my-card">
+                  <div  class="card-header bg-info">
+                     <h3 class="font-weight-bold mb-3">Searching Words</h3>
+                  </div>
+                  <div class="card-body">
+                    <div class="row">
+                      <p class="mb-5">You can search any types of articles using their url/links to know their meanings and can know their details.</p>
+                      <img class="img-thumbnail" src="/img/search2.jpg" alt="">
+                    </div>
+                  </div>
+                 </div>
+               </div>
+             <div class="col-md-4 text-center">
+               <div class="card my-card">
+                 <div class="card-header bg-info">
+                 <h3 class="font-weight-bold mb-3">Collection of Words</h3>
+                 </div>
+                 <div class="card-body">
+                 <p class="mb-5"> Collection  of words by one is shown in dashboard</p>
+                 <img class="img-thumbnail" src="/img/rank.png" alt="">
+                 </div>
+               </div>
+             </div>  
+             <div class="col-md-4 text-center">
+               <div class="card my-card">
+                 <div class="card-header bg-info">
+                   <h3 class="font-weight-bold mb-3">Gathering Vocabularies</h3>
+                 </div>
+                 <div class="card-body">
+                  <p class="mb-5">One can know highlighted words' meanings,synonyms,antonyms etc </p>
+                  <img class="img-thumbnail" src="/img/vocabulary-words.png" alt="">
+                 </div>
+               </div>           
+            </div>
+          </div>
+      </div>
+   </div>
+  </section>
+  <!-- Card Change -->
+
+    <section>
+      <div class="container py-5">
+        <div class="row">
+          <div class="col-lg-8">
+            <!-- change -->
+            <h1 class="font-weight-bold text-left pb-3">Contents</h1>
+            <p style="text-align: justify">
+              Using the page's url the site will automaticaly detect all the
+              words by you given those are usually difficult to know and the
+              site will highlight those words.It will easily give an idea of the
+              unknown words.
+            </p>
+            <p style="text-align: justify">
+              You can see hovering those highlighted words it will show the
+              meaning of those words,with synonyms and antonyms and if possilbe
+              it will use pictures for better understanding and also use
+              reference of different sites for better learning those words.
+            </p>
+            <p style="text-align: justify">
+              There is a leaderboard on the top where you can compare with other
+              users how much words they know and it will show top users who
+              knows most words.
+            </p>
+          </div>
+          <div class="col-lg-4 pt-5 mt-4">
+            <img class="w-100 img-thumbnail" src="/img/book-1798.jpg" alt="" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="container py-5">
+        <div class="row text-left">
+          <div class="col-12">
+            <h1 class="font-weight-bold">About Us</h1>
+            <p style="text-align: justify">
+              We are here to expand the diameter of your knowledge in a unique
+              way.We can ensure that you will certainly be helpful from this
+              website.Moreover,you can easily access this website from both
+              mobiles and computers.
+            </p>
+          </div>
+        </div>
+        <div class="categories">
+          <div class="small-container">
+            <div class="row">
+              <div class="col-3">
+                <a href="https://learnersdictionary.com/"
+                  ><img src="/img/rsz_advance.png"
+                /></a>
+              </div>
+              <div class="col-3">
+                <a href="https://dictionary.cambridge.org/"
+                  ><img src="/img/rsz_cambridge.png"
+                /></a>
+              </div>
+              <div class="col-3">
+                <a href="https://www.oxfordlearnersdictionaries.com/"
+                  ><img src="/img/rsz_oxford.png"
+                /></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div class="clearfix"></div>
+  
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+      crossorigin="anonymous"
+    ></script>
+    <!-- Change 2trkh -->
+    <!-- <script>
+      // Add active class to the current button (highlight it)
+      var header = document.getElementByClass("myDIV");
+      var btns = header.getElementsByClassName("btn");
+      for (var i = 0; i < btns.length; i++) {
+        btns[i].addEventListener("click", function() {
+        var current = document.getElementsByClassName("active");
+        current[0].className = current[0].className.replace(" active", "");
+        this.className += " active";
+        });
+      }
+      </script> -->
+      <!-- Change 2trkh -->
+  </body>
+</html>
